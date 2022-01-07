@@ -337,10 +337,15 @@ body {
 /* footer */
 .footer{
     margin-top: 150px;
-    height: 400px;
 }
 .footer-div{
     display: flex;
+    margin-left: 15%;
+    width: 45%;
+    margin-bottom: 50px;
+}
+.fff{
+    color: #fff;
 }
 
 /* media */
